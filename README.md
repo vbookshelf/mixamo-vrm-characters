@@ -1,8 +1,12 @@
 # Mixamo .vrm Characters
 
 This repo:
-- Hosts three Mixamo characters in .vrm format - for download and use in your three.js projects.
+- Hosts three Mixamo characters in .vrm format.
 - Shows a simple step-by-step workflow to convert a character, that you downloaded from Mixamo, from .fbx format to .vrm format.
+
+Created to support non 3D developers, who want to quickly vibe code three.js projects.
+
+<br>
 
 
 ## Characters available
