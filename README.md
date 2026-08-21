@@ -42,5 +42,6 @@ Click Install<br>
 <img src="images/image5.png" alt="X Bot" height="500">
 
 4- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to find it.<br>
-Copy the code in the mixamo_to_vrm.py file and paste it into Blender.<br>
+Click "+ New"<br>
+<img src="images/image6.png" alt="X Bot" height="500">
 
