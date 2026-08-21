@@ -21,3 +21,13 @@ This repo:
 
 <img src="images/image3.png" alt="Mousey" height="300">
 <p>Claire</p>
+
+<br>
+
+## .fbx to .vrm Conversion Workflow
+
+- Download the character from Mixamo<br>
+https://www.mixamo.com/<br>
+<img src="images/image4.png" alt="X Bot" height="200">
+
+
