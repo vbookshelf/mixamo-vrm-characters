@@ -1,4 +1,4 @@
-# Mixamo .vrm Characters
+# Mixamo vrm Characters
 
 This repo:
 - Hosts three Mixamo characters in .vrm format.
