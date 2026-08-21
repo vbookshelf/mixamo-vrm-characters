@@ -26,10 +26,8 @@ This repo:
 
 ## .fbx to .vrm Conversion Workflow
 
-<br>
-
 ### Step 1
-- Download the character from Mixamo in .fbx format.<br>https://www.mixamo.com/
+- Download the character from Mixamo -  FBX Binary(.fbx), T-pose<br>https://www.mixamo.com/
 - Rename the file to: character.fbx
 - Place the file on your desktop.
 
