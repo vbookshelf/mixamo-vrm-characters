@@ -53,4 +53,10 @@ You can rename this file and use it.<br>
 
 The .fbx to .vrm conversion process is now complete.
 
+<br>
+
+## Notes
+- Mixamo licensing conditions:<br>
+https://community.adobe.com/questions-696/mixamo-faq-licensing-royalties-ownership-eula-and-tos-589400
+
 
