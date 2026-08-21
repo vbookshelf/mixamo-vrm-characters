@@ -27,6 +27,8 @@ This repo:
 ## .fbx to .vrm Conversion Workflow
 
 1- Download the character from Mixamo<br>
+Rename the file to: character.fbx<br>
+Place the file on your desktop.<br>
 https://www.mixamo.com/<br>
 <img src="images/image4.png" alt="X Bot" height="200">
 
@@ -39,4 +41,6 @@ Type "VRM" into the search bar<br>
 Click Install<br>
 <img src="images/image5.png" alt="X Bot" height="500">
 
+4- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to find it.<br>
+Copy the code in the mixamo_to_vrm.py file and paste it into Blender.<br>
 
