@@ -23,7 +23,7 @@ Created to support non 3D developers, who want to quickly vibe code three.js pro
 
 <br>
 
-<img src="images/image3.png" alt="Mousey" height="300">
+<img src="images/image3.png" alt="Claire" height="300">
 <p>Claire</p>
 
 <br>
