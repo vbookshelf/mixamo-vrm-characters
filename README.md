@@ -66,7 +66,7 @@ Install the VRM extension in Blender:<br>
 <br>
 
 ### Step 5
-- Copy the code from the mixamo_to_vrm.py file and paste it into blender.
+- Copy the code from the mixamo-to-vrm.py file and paste it into blender.
 - Then click the play button to run the code.
 - A new file named character.vrm will appear on your desktop.<br>
 - You can rename this file.
