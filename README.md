@@ -36,6 +36,7 @@ https://www.blender.org/
 3- Install the VRM extension in Blender<br>
 Edit -> Preferences -> Get Extensions<br>
 Type "VRM" into the search bar<br>
-Click Install
+Click Install<br>
+<img src="images/image5.png" alt="X Bot" height="500">
 
 
