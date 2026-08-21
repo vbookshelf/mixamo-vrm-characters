@@ -20,4 +20,4 @@ This repo:
 <br>
 
 <img src="images/image3.png" alt="Mousey" height="300">
-<p>Mousey</p>
+<p>Claire</p>
