@@ -26,20 +26,33 @@ This repo:
 
 ## .fbx to .vrm Conversion Workflow
 
-1- Download the character from Mixamo<br>
-Rename the file to: character.fbx<br>
-Place the file on your desktop.<br>
-https://www.mixamo.com/<br>
-<img src="images/image4.png" alt="Mixamo screenshot" height="200">
+<br>
 
-2- Download and install Blender<br>
+### Step 1
+- Download the character from Mixamo in .fbx format.<br>https://www.mixamo.com/
+- Rename the file to: character.fbx
+- Place the file on your desktop.
+
+<br>
+
+<img src="images/image4.png" alt="Mixamo screenshot" height="300">
+
+<br>
+
+### Step 2
+- Download and install Blender<br>
 https://www.blender.org/
 
-3- Install the VRM extension in Blender<br>
-Edit -> Preferences -> Get Extensions<br>
-Type "VRM" into the search bar<br>
-Click Install<br>
+### Step 3
+Install the VRM extension in Blender:<br>
+- Edit -> Preferences -> Get Extensions
+- Type "VRM" into the search bar<br>
+- Click Install
+
+<br>
 <img src="images/image5.png" alt="Blender screenshot" height="500">
+
+<br>
 
 4- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to find it.<br>
 Click "+ New"<br>
