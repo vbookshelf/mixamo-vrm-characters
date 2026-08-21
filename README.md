@@ -1,7 +1,7 @@
 # Mixamo .vrm Characters
 
 This repo:
-- Hosts selected Mixamo characters in .vrm format - for download and use in your three.js projects.
+- Hosts three Mixamo characters in .vrm format - for download and use in your three.js projects.
 - Shows a simple step-by-step workflow to convert a character, that you downloaded from Mixamo, from .fbx format to .vrm format.
 
 
@@ -79,7 +79,9 @@ The .fbx to .vrm conversion process is now complete.
 <br>
 
 ## Notes
+- A vrm character is simply a virtual robot that exposes an API. You can use Javascript code to move the joints and limbs.
 - Mixamo licensing conditions:<br>
 https://community.adobe.com/questions-696/mixamo-faq-licensing-royalties-ownership-eula-and-tos-589400
 
+<br>
 
