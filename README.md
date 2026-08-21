@@ -26,8 +26,16 @@ This repo:
 
 ## .fbx to .vrm Conversion Workflow
 
-- Download the character from Mixamo<br>
+1- Download the character from Mixamo<br>
 https://www.mixamo.com/<br>
 <img src="images/image4.png" alt="X Bot" height="200">
+
+2- Download and install Blender<br>
+https://www.blender.org/
+
+3- Install the VRM extension in Blender<br>
+Edit -> Preferences -> Get Extensions<br>
+Type "VRM" into the search bar<br>
+Click Install
 
 
