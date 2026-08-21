@@ -54,15 +54,25 @@ Install the VRM extension in Blender:<br>
 
 <br>
 
-4- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to find it.<br>
-Click "+ New"<br>
+### Step 4
+- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to see it.<br>
+- Click "+ New"
+
+<br>
 <img src="images/image6.png" alt="Blender screenshot" height="500">
 
-5- Copy the code from the mixamo_to_vrm.py file and paste it in blender.<br>
-Then click the play button to run the code.<br>
-A new file named character.vrm will appear on your desktop.<br>
-You can rename this file and use it.<br>
-<img src="images/image7.png" alt="Blender screenshot" height="500"><br>
+<br>
+
+### Step 5
+- Copy the code from the mixamo_to_vrm.py file and paste it in blender.
+- Then click the play button to run the code.
+- A new file named character.vrm will appear on your desktop.<br>
+- You can rename this file.
+- 
+<br>
+<img src="images/image7.png" alt="Blender screenshot" height="500">
+
+<br>
 
 The .fbx to .vrm conversion process is now complete.
 
