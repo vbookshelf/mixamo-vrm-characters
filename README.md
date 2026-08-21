@@ -81,7 +81,7 @@ The .fbx to .vrm conversion process is now complete.
 <br>
 
 ## Notes
-- A vrm character is simply a virtual robot that exposes an API. You can use Javascript code to move the joints and limbs.
+- A vrm character can be seen as a virtual robot that exposes an API. You can use Javascript code to move the joints and limbs. This mental model is a simplification, but it helps with understanding.
 - Mixamo licensing conditions:<br>
 https://community.adobe.com/questions-696/mixamo-faq-licensing-royalties-ownership-eula-and-tos-589400
 
