@@ -87,3 +87,10 @@ https://community.adobe.com/questions-696/mixamo-faq-licensing-royalties-ownersh
 
 <br>
 
+## References
+
+- Three.js 3D Web Dev Experiments<br>
+https://github.com/vbookshelf/Three.js-3D-Web-Dev-Experiments
+
+<br>
+
