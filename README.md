@@ -30,7 +30,7 @@ This repo:
 Rename the file to: character.fbx<br>
 Place the file on your desktop.<br>
 https://www.mixamo.com/<br>
-<img src="images/image4.png" alt="X Bot" height="200">
+<img src="images/image4.png" alt="Mixamo screenshot" height="200">
 
 2- Download and install Blender<br>
 https://www.blender.org/
@@ -39,9 +39,18 @@ https://www.blender.org/
 Edit -> Preferences -> Get Extensions<br>
 Type "VRM" into the search bar<br>
 Click Install<br>
-<img src="images/image5.png" alt="X Bot" height="500">
+<img src="images/image5.png" alt="Blender screenshot" height="500">
 
 4- In the top bar click "Scripting". It may be hidden so you will need to slide the other buttons to the left to be able to find it.<br>
 Click "+ New"<br>
-<img src="images/image6.png" alt="X Bot" height="500">
+<img src="images/image6.png" alt="Blender screenshot" height="500">
+
+5- Copy the code from the mixamo_to_vrm.py file and paste it in blender.<br>
+Then click the play button to run the code.<br>
+A new file named character.vrm will appear on your desktop.<br>
+You can rename this file and use it.<br>
+<img src="images/image7.png" alt="Blender screenshot" height="500"><br>
+
+The .fbx to .vrm conversion process is now complete.
+
 
